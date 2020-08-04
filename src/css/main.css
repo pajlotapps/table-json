@@ -14,8 +14,12 @@ body {
 
 .container {
   background-color: var(--bg-panel);
-  margin: 5em;
-  padding: 5em;
-  border-radius: 15px;
+  margin: 1em;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.table-content {
+  font-size: 16px;
 }
 /*# sourceMappingURL=main.css.map */
