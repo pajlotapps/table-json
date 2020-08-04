@@ -1,4 +1,4 @@
-# TABLE - JSON [grid-js]
+# TABLE - JSON powered by [grid-js][gridjs-url]
 
 generating table from json file using gridjs 
 
