@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  --bg: #f0f0f0;
+  --bg-panel:#e6e6e6;
+  --color-headings: #0077FF;
+  --color-text: #333333;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+.container {
+  background-color: var(--bg-panel);
+  margin: 5em;
+  padding: 5em;
+  border-radius: 15px;
+}
+/*# sourceMappingURL=main.css.map */
